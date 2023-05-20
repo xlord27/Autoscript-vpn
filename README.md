@@ -1,5 +1,5 @@
-## Tested only on Ubuntu 20.04<br>
-  
+## Tested on Ubuntu 20.04✅<br>
+## Tested on Debian 10✅<br>  
   ```html
  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
  ```
