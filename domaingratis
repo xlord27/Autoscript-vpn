@@ -20,9 +20,9 @@ echo -e "${EROR} No Input Detected !"
 exit 1
 fi
 DOMAIN=andriwrt.me
-SUB_DOMAIN=${sub}.andriwrt.me
-CF_ID=razertech52@gmail.com
-CF_KEY=8b0683c1ff3f6eed8dc32a70dfd2c02c80e9f
+SUB_DOMAIN=${sub}.xlord.xyz
+CF_ID=xlordstoreofc@gmail.com
+CF_KEY=a37077a98a128ab30116a6669b1ede5814cc3
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
