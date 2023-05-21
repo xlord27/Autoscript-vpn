@@ -1,4 +1,4 @@
-    <b><b><b>SC PREMIUM SUKA SUKA
+  <b><b><b>SC PREMIUM SUKA SUKA
 
 ## Tested on Ubuntu 20.04✅<br>
 ## Tested on Debian 10✅<br>  
